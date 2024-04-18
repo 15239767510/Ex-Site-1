@@ -36405,3 +36405,4 @@ Stack trace:
 2024-04-05 16:00:01 pid:26944 Workerman[start.php] stopping ...
 2024-04-05 16:00:01 pid:26944 Workerman[start.php] has been stopped
 2024-04-05 16:00:01 pid:14197 Workerman[start.php] stop success
+2024-04-18 18:21:42 pid:41117 Workerman[start.php] start in DAEMON mode

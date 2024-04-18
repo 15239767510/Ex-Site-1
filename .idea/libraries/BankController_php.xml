@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BankController.php">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/Http/Controllers/Api/BankController.php.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

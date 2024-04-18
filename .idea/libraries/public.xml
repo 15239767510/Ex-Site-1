@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="public">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/电脑端-编译后.zip!/" />
+      <root url="jar://$PROJECT_DIR$/public/手机端-编译后.zip!/" />
+      <root url="jar://$PROJECT_DIR$/public/download.zip!/" />
+      <root url="jar://$PROJECT_DIR$/public/public_pXssDE.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
